@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Naresh-parmar
 - 👀 I’m Working as UIUX Designer ...
 - 🌱 I’m currently learning Zeplin Tool...
-- 📫 How to reach me -> https://www.linkedin.com/in/naresh-parmar-083577121
+- 📫 How to reach me -> naresh.parmar727@gmail.com
 
 <!---
 Naresh-parmar/Naresh-parmar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
